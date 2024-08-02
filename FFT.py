@@ -1,4 +1,4 @@
-from scipy.io.wavfile import read, write
+from scipy.io.wavfile import read
 from pylab import plot, show, subplot, specgram
 
 # Open the Homer Simpson voice: "Ummm, Crumbled up cookie things."
